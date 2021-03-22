@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Piece
+comment0.text=\n\ Describes\ one\ of\ the\ pieces\ of\ the\ game\n\n\ @author\ David\ Furcy\n\ @version\ 3/7/2021\n
+comment1.params=label\ board\ row\ col
+comment1.target=Piece(java.lang.String,\ Board,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Piece\n\ \n\ @param\ label\ \ the\ label\ of\ the\ piece\n\ @param\ board\ \ the\ board\ this\ piece\ is\ on\n\ @param\ row\ \ \ \ the\ row\ index\ of\ the\ piece\ on\ its\ board\n\ @param\ col\ \ \ \ the\ col\ index\ of\ the\ piece\ on\ its\ board\n
+comment2.params=
+comment2.target=java.lang.String\ getLabel()
+comment2.text=\n\ Returns\ the\ label\ of\ the\ piece\n\n\ @return\ \ \ \ the\ label\ of\ the\ piece\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ Returns\ a\ textual\ description\ of\ the\ piece,\ namely\ its\ label\n\ \n\ @return\ \ \ \ the\ label\ of\ the\ piece\n
+comment4.params=o
+comment4.target=boolean\ equals(java.lang.Object)
+comment4.text=\n\ \ Checks\ if\ two\ pieces\ are\ the\ same\ based\ on\ their\ label\n\ \ \n\ \ @return\ \ \ true\ if\ and\ only\ if\ the\ two\ pieces\ have\ the\ same\n\ \ \ \ \ \ \ \ \ \ \ \ label\n
+numComments=5

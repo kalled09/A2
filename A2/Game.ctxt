@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\n\ Represents\ a\ two-player\ board\ game\n\n\ @author\ David\ Furcy\n\ @version\ 3/7/2021\n
+comment1.params=board
+comment1.target=Game(Board)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Game\n\ \n\ @param\ board\ \ \ an\ empty,\ game-specific\ board\ to\ play\ the\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ game\ on\n
+comment2.params=
+comment2.target=void\ play()
+comment2.text=\n\ \ Plays\ an\ entire\ game\n
+comment3.params=
+comment3.target=void\ setUp()
+comment3.text=\n\ Sets\ up\ the\ board\ in\ its\ initial\ configuration\ as\ well\ as\n\ the\ two\ players\ of\ this\ game\n
+comment4.params=
+comment4.target=boolean\ gameOver()
+comment4.text=\n\ \ Determines\ whether\ or\ not\ the\ game\ has\ ended\n
+comment5.params=
+comment5.target=void\ wrapUp()
+comment5.text=\n\ Finishes\ the\ game\ after\ a\ tie\ or\ a\ win\n
+numComments=6

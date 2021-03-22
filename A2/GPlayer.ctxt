@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GPlayer
+comment0.text=\n\ Write\ a\ description\ of\ class\ GPlayer\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name\ game
+comment1.target=GPlayer(java.lang.String,\ Game)
+comment2.params=
+comment2.target=void\ playAMove()
+numComments=3

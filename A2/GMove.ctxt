@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=GMove
+comment0.text=\n\ Represents\ one\ (potential)\ move\ in\ the\ Giraffe\ game\n\n\ @author\ YOUR\ NAME\n\ @version\ 3/21/21\n
+comment1.params=board\ row\ column\ dir
+comment1.target=GMove(GBoard,\ char,\ char,\ char)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ GMove\:\ initializes\ the\ four\ given\ \n\ instance\ variables\ and\ checks\ the\ validity\ of\ the\ moves\ using\ the\ \n\ method\ below.\ \ \n\ Throws\ an\ exception\ if\ the\ move\ is\ not\ valid.\n\ \n\ @param\ \ board\ \ \ \ board\ on\ which\ the\ move\ is\ made\n\ @param\ \ row\ \ \ \ \ \ name\ of\ the\ row\ of\ the\ stack\ to\ be\ moved\n\ @param\ \ column\ \ \ name\ of\ the\ column\ of\ the\ stack\ to\ be\ moved\n\ @param\ \ dir\ \ \ \ \ \ direction\ of\ the\ move\:\ 'u',\ 'r',\ 'd',\ or\ 'l'\n
+comment2.params=
+comment2.target=void\ playIt()
+comment2.text=\n\ Performs\ this\ move\ (knwon\ to\ be\ valid)\ by\ updating\ \n\ the\ board\ accordingly.\n
+comment3.params=
+comment3.target=void\ checkValidity()
+comment3.text=\n\ Checks\ if\ this\ move\ is\ valid;\ if\ so,\ sets\ the\ values\ of\ the\ \n\ following\ instance\ variables\:\n\ \ \ \ endRow,\ endColumn,\ player,\ height,\ endHeight,\ type\ \n\ Otherwise,\ throws\ an\ InvalidMoveException.\n
+comment4.params=direction
+comment4.target=char\ positionalMove(char)
+comment4.text=\n\ \ \ \ Implement\ your\ helper\ methods\ (if\ any)\ below\n\ \ \ \ These\ helper\ methods\ MUST\ all\ be\ private.\n
+comment5.params=height\ endHeight
+comment5.target=int\ stackingMove(int,\ int)
+comment6.params=
+comment6.target=void\ capturingMove()
+numComments=7

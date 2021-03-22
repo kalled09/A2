@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=InvalidMoveException
+comment0.text=\n\ Signals\ an\ attempt\ to\ play\ an\ invalid\ move\n\n\ @author\ David\ Furcy\n\ @version\ 3/7/2021\n
+comment1.params=
+comment1.target=InvalidMoveException()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ InvalidMoveException\n
+numComments=2

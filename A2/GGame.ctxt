@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GGame
+comment0.text=\n\ Write\ a\ description\ of\ class\ GGame\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=GGame()
+comment2.params=
+comment2.target=void\ newGame()
+comment2.text=\n\ Starts\ a\ game\n
+comment3.params=
+comment3.target=void\ setUp()
+comment4.params=
+comment4.target=boolean\ gameOver()
+comment5.params=
+comment5.target=void\ wrapUp()
+numComments=6
